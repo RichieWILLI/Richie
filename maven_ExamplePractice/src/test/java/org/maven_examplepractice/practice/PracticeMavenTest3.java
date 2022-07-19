@@ -8,6 +8,7 @@ public class PracticeMavenTest3{
 	public void practiceMavenTest() {
 
 		System.out.println("ThirdTest1");
+		System.out.println("hello");
 	}
 	
 	
