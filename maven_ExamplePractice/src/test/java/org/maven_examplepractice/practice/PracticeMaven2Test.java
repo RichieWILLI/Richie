@@ -8,6 +8,7 @@ public class PracticeMaven2Test{
 	public void practiceMavenTest() {
 
 		System.out.println("secondTest1");
+		System.out.println("changed");
 	}
 	
 	
