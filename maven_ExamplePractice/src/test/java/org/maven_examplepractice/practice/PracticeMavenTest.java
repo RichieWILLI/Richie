@@ -10,9 +10,7 @@ public class PracticeMavenTest{
 		System.out.println("FirstTest1");
 		String browser = System.getProperty("browser");
 		System.out.println(browser);
-		String username = System.getProperty("username");
 		
-		String you = System.getProperty("hi hello");
 		
 		
 	}
