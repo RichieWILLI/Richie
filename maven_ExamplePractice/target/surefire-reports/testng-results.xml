@@ -1,25 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="3" passed="3">
+<testng-results total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="org.maven_examplepractice.practice.PracticeMavenTest" duration-ms="42" started-at="2022-07-19T05:28:03Z" finished-at="2022-07-19T05:28:03Z">
+  <suite started-at="2022-07-20T09:02:12Z" name="Command line suite" finished-at="2022-07-20T09:02:12Z" duration-ms="30">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="42" started-at="2022-07-19T05:28:03Z" finished-at="2022-07-19T05:28:03Z">
+    <test started-at="2022-07-20T09:02:12Z" name="Command line test" finished-at="2022-07-20T09:02:12Z" duration-ms="30">
       <class name="org.maven_examplepractice.practice.PracticeMavenTest">
-        <test-method status="PASS" signature="practiceMaven2Test()[pri:0, instance:org.maven_examplepractice.practice.PracticeMavenTest@47f6473]" name="practiceMaven2Test" duration-ms="16" started-at="2022-07-19T10:58:03Z" finished-at="2022-07-19T10:58:03Z">
+        <test-method signature="practiceMaven2Test()[pri:0, instance:org.maven_examplepractice.practice.PracticeMavenTest@34b7ac2f]" started-at="2022-07-20T14:32:12Z" name="practiceMaven2Test" finished-at="2022-07-20T14:32:12Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- practiceMaven2Test -->
-        <test-method status="PASS" signature="practiceMaven3Test()[pri:0, instance:org.maven_examplepractice.practice.PracticeMavenTest@47f6473]" name="practiceMaven3Test" duration-ms="1" started-at="2022-07-19T10:58:03Z" finished-at="2022-07-19T10:58:03Z">
+        <test-method signature="practiceMaven3Test()[pri:0, instance:org.maven_examplepractice.practice.PracticeMavenTest@34b7ac2f]" started-at="2022-07-20T14:32:12Z" name="practiceMaven3Test" finished-at="2022-07-20T14:32:12Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- practiceMaven3Test -->
-        <test-method status="PASS" signature="practiceMavenTest()[pri:0, instance:org.maven_examplepractice.practice.PracticeMavenTest@47f6473]" name="practiceMavenTest" duration-ms="1" started-at="2022-07-19T10:58:03Z" finished-at="2022-07-19T10:58:03Z">
+        <test-method signature="practiceMavenTest()[pri:0, instance:org.maven_examplepractice.practice.PracticeMavenTest@34b7ac2f]" started-at="2022-07-20T14:32:12Z" name="practiceMavenTest" finished-at="2022-07-20T14:32:12Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- practiceMavenTest -->
       </class> <!-- org.maven_examplepractice.practice.PracticeMavenTest -->
+      <class name="org.maven_examplepractice.practice.PracticeMaven2Test">
+        <test-method signature="practiceMaven2Test()[pri:0, instance:org.maven_examplepractice.practice.PracticeMaven2Test@5bd03f44]" started-at="2022-07-20T14:32:12Z" name="practiceMaven2Test" finished-at="2022-07-20T14:32:12Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceMaven2Test -->
+        <test-method signature="practiceMavenTest()[pri:0, instance:org.maven_examplepractice.practice.PracticeMaven2Test@5bd03f44]" started-at="2022-07-20T14:32:12Z" name="practiceMavenTest" finished-at="2022-07-20T14:32:12Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceMavenTest -->
+        <test-method signature="practiceMaven3Test()[pri:0, instance:org.maven_examplepractice.practice.PracticeMaven2Test@5bd03f44]" started-at="2022-07-20T14:32:12Z" name="practiceMaven3Test" finished-at="2022-07-20T14:32:12Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practiceMaven3Test -->
+      </class> <!-- org.maven_examplepractice.practice.PracticeMaven2Test -->
     </test> <!-- Command line test -->
-  </suite> <!-- org.maven_examplepractice.practice.PracticeMavenTest -->
+  </suite> <!-- Command line suite -->
 </testng-results>
