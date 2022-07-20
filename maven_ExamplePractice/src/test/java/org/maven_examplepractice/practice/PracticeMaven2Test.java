@@ -9,7 +9,7 @@ public class PracticeMaven2Test{
 
 		System.out.println("secondTest1");
 		System.out.println("changed");
-		system.out.println("changed in the local branch")
+		System.out.println("changed in the local branch");
 		
 	}
 	
