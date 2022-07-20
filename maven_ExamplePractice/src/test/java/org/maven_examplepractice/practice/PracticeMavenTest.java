@@ -23,7 +23,7 @@ public class PracticeMavenTest{
 		System.out.println(name);
 
 		System.out.println("FirstTest2");
-		System.out.println("FirstTest2&1");
+		System.out.println("FirstTest2&2");
 	}
 	
 	@Test
