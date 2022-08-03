@@ -7,6 +7,7 @@ public class PracticeMavenTest3{
 	@Test
 	public void practiceMavenTest() {
 	//oo
+	//00
 		System.out.println("ThirdTest1");
 		System.out.println("hi");
 	}
